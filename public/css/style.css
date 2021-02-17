@@ -3,7 +3,7 @@
 @import url(syntax/monokai.css);
 
 :root {
-  --blue: #007bff;
+  --blue: #0071BC;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -16,7 +16,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #007bff;
+  --primary: #0071BC;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -98,7 +98,7 @@ code {
 	flex: 0 0 220px;
 	padding: 15px;
 	z-index: 1;
-	background-color: #222;
+	background-color: #222222;
 	color: #fff;
 }
 
